@@ -49,3 +49,4 @@ clear_btn.grid(row=row, column=0, padx=5, pady=5)
 
 # Start the GUI loop
 root.mainloop()
+
